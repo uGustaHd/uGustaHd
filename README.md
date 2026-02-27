@@ -1,16 +1,35 @@
-## Hi there 👋
+# Gustavo César 👋
 
-<!--
-**uGustaHd/uGustaHd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer focused on Spring Boot  
+🔬 Undergraduate Research experience  
+⚙️ Technical student in Industrial Automation  
+🎮 Aspiring Game Developer  
 
-Here are some ideas to get you started:
+📄 Curriculum Lattes:  http://lattes.cnpq.br/6494284074208266
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+- Java & Spring Boot
+- REST APIs
+- Software Architecture
+- Game Development (Godot)
+- Automation & Control Systems
+
+---
+
+## 📚 Research Experience
+Developed a complete Museum Management System as part of an academic research project, focusing on:
+
+- Relational database modeling  
+- Layered architecture  
+- Structured backend design  
+- REST API development  
+
+---
+
+## 🎯 Goals
+- Build well-structured and scalable backend systems  
+- Deepen knowledge in software architecture  
+- Integrate software and automation systems  
+- Develop independent game projects  
