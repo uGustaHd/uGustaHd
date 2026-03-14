@@ -34,4 +34,4 @@ Developed a complete Museum Management System as part of an academic research pr
 - Integrate software and automation systems  
 - Develop independent game projects  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![uGustaHd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugustahd)](https://github.com/anuraghazra/github-readme-stats)
