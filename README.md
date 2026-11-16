@@ -27,9 +27,3 @@ Developed a complete Museum Management System as part of an academic research pr
 - REST API development  
 
 ---
-
-## 🎯 Goals
-- Build well-structured and scalable backend systems  
-- Deepen knowledge in software architecture  
-- Integrate software and automation systems  
-- Develop independent game projects  
